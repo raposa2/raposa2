@@ -1,16 +1,14 @@
-## Hi there 👋
+##OLÁ
 
-<!--
-**raposa2/raposa2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 Estou estudando na Alura
+- 🌱 Estou me desenvolvendo na linguagem JavaScript
+- 💬Utilizo esse espaço para minha organização e compartilhamento dos meu projetos desenvolvidos
+ 
+- 📫 Você pode entrar em contato comigo 📫
+alurastartestudante@email.com
 
-Here are some ideas to get you started:
+@alurastartestudante
+- 😄 
+- ⚡ ![](![image](https://github.com/raposa2/raposa2/assets/170050894/53f57feb-4fa9-4c1b-b791-4bcd53186172))
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 -->
